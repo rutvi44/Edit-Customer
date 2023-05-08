@@ -1,10 +1,3 @@
-﻿/* Project file name : Assignment 5
- * Purpose of program : Add, Edit and Display Customer Information
- * 
- * Revision History:
- *     Created bt Jay Jasoliya, 05-04-2023, 
-                  Rutvi Mistry, 12-04-2023.
- */
 
 using System;
 using System.Collections.Generic;
